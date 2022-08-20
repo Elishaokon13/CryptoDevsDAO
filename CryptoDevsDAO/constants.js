@@ -1,8 +1,8 @@
 export const CRYPTODEVS_DAO_CONTRACT_ADDRESS =
-  "0x9770eFa5428295978F9946eD119769F3a0C1273C";
+  "To be added after deployed ";
 
 export const CRYPTODEVS_NFT_CONTRACT_ADDRESS =
-  "0x6805a66179283Fa1FcEc8D89f4e162bebe5C0617";
+  "To-be-added";
 
 export const CRYPTODEVS_DAO_ABI = [
   {
