@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+## CryptoDevsDAO
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+<img src="68747470733a2f2f692e696d6775722e636f6d2f367558523247392e706e67.png">
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
